@@ -19,12 +19,6 @@ flask run
 
 By default the server starts on port `5000`. 
 
-:warning: Important!
-
-You have to login first before sending the request otherwise it will respond 403.
-
-User already has dummy data with `username`: `userone` and `password`: `12345`.
-
 ## Get the overall Covid-19 case data
 
 Method: `GET`
